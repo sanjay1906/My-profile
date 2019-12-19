@@ -1,0 +1,121 @@
+@media (min-width: 992px) and (max-width: 1199px) {
+    .about-text {
+        height: 403px;
+    }
+    .item-heading h3:before {
+        width: 38px;
+        left: -43px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .section-title h2 span {
+        font-size: 75px;
+        top: -20px;
+    }
+    .about-text {
+        height: unset;
+        margin-top: 40px;
+    }
+    .counter-single-item {
+        margin-bottom: 30px;
+    }
+    .blog-item {
+        margin-bottom: 30px;
+    }
+    .team-card {
+        margin-bottom: 30px;
+    }
+    form.contactform {
+        margin-top: 30px;
+    }
+    ul.footer-navber {
+        line-height: 27px;
+    }
+}
+
+@media (max-width: 767px) {
+    .section-title h2 span {
+        font-size: 75px;
+        top: -20px;
+    }
+    .about-text {
+        height: unset;
+        margin-top: 40px;
+    }
+    .counter-single-item {
+        margin-bottom: 30px;
+    }
+    .blog-item {
+        margin-bottom: 30px;
+    }
+    .team-card {
+        margin-bottom: 30px;
+    }
+    form.contactform {
+        margin-top: 30px;
+    }
+    ul.footer-navber {
+        line-height: 27px;
+    }
+}
+
+@media (max-width: 479px) {
+    .full-menu .full-inner nav ul {
+        text-align: center;
+    }
+    .full-menu .full-inner nav ul li a {
+        font-size: 30px;
+    }
+    .home-content h1 {
+        font-size: 35px;
+        margin-bottom: 30px;
+    }
+    .name-effect {
+        font-size: 65px;
+    }
+    .home-content h2 {
+        font-size: 22px;
+    }
+    .about-text {
+        height: unset;
+        margin-top: 40px;
+    }
+    .counter-single-item {
+        margin-bottom: 30px;
+    }
+    #portfolio .portfolio-list .nav {
+        padding: 0;
+    }
+    #portfolio .portfolio-list .nav li {
+        padding: 10px 10px;
+    }
+    .blog-item {
+        margin-bottom: 30px;
+    }
+    .team-card {
+        margin-bottom: 30px;
+    }
+    .owl-nav {
+        display: none;
+    }
+    .section-title h2 span {
+        font-size: 34px;
+        top: 5px;
+    }
+    .experience-title {
+        margin-top: 25px;
+    }
+    .hire-me h2 {
+        line-height: 27px;
+    }
+    form.contactform {
+        margin-top: 30px;
+    }
+    .footer .copyright p {
+        margin-bottom: 15px;
+    }
+    .footer-navber {
+        line-height: 27px;
+    }
+}
